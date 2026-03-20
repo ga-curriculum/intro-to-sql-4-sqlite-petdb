@@ -10,8 +10,8 @@ This module provides a hands-on introduction to database creation and management
 | Micro-Lesson | Est. Delivery Time | Learning Objectives |
 | ------ |:------------------:| ------ |
 | [01 - Introduction to SQLite3 & CRUD (Slides)](./01-Intro%20Slides/README.md) | 30 | • Define SQLite3 and explain its advantages for file-based database applications<br>• Understand CRUD operations (Create, Read, Update, Delete) in database management<br>• Learn how CRUD operations map to SQL commands (INSERT, SELECT, UPDATE, DELETE) |
-| [02 - Building Your First SQLite Database - Code Along](creating-sqlite3-db-and-crud/README.md) | 30 | • Generate a quick, file-based SQL database with SQLite3<br>• Carry out table creation, row insertion (C), entry manipulation (U), and entry deletion (D) using SQL |
-| [03 - Object-Oriented Database API - Solo Exercise](crud-api/README.md) | 40 | Use OOP to create a full API that interacts with your SQL database |
+| [02 - Building Your First SQLite Database - Code Along](./02-creating-sqlite3-db-and-crud/README.md) | 30 | • Generate a quick, file-based SQL database with SQLite3<br>• Carry out table creation, row insertion (C), entry manipulation (U), and entry deletion (D) using SQL |
+| [03 - Object-Oriented Database API - Solo Exercise](./03-crud-api/README.md) | 40 | Use OOP to create a full API that interacts with your SQL database |
 | **Total content delivery time** | 100 | *Not including breaks and 'bring it home at the end'*|
 | **Total module delivery time** | 120 | *Including a suggested 15 min break and 5 min to bring it home at the end*|
 
