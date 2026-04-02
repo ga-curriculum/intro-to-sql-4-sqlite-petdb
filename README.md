@@ -62,4 +62,4 @@ Microlesson 02: Creating your own Sqlite3 db and implementing CRUD operations [p
 
 Microlesson 03: Implementing CRUD operations with an API [petdb-api-crud-solutions.ipynb](./microlesson-03/petdb-api-crud-solutions.ipynb)  
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
